@@ -12,15 +12,15 @@ body {
   box-shadow: 0 6px 15px rgba(0,0,0,0.25); /* cambio estético */ 
 }
 
-.card-header { 
-  background: green; 
-  height: 80px; 
-}
+.card__header {
+ background: #28a745;
+ height: 80px;
+ }
 
-.card-body { 
-  padding: 20px; 
-  text-align: center; 
-}
+.card__body {
+ padding: 20px;
+ text-align: center;
+ }
 
 .skills {
   list-style: none;  /* quita los puntos */
