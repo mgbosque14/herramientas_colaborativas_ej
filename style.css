@@ -21,3 +21,13 @@ body {
   padding: 20px; 
   text-align: center; 
 }
+
+.skills {
+  list-style: none;  /* quita los puntos */
+  margin-top: 10px;
+  padding: 0;
+}
+
+.skills li {
+  margin: 5px 0;
+}
